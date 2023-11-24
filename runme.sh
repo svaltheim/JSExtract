@@ -9,7 +9,7 @@ echo "   ##  ##        ##  ##       ##  ##     ##      ##  ##  ##  ##    ##  ## 
 echo "   ##  ##   ######    #####   ##  ##    ####    #### ##  ##  ##     ####    #### "
 echo "    ####									      "
 
-echo By Svaltheim
+echo "By Svaltheim"
 echo
 echo
 
