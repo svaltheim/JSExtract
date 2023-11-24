@@ -10,6 +10,8 @@ echo "   ##  ##   ######    #####   ##  ##    ####    #### ##  ##  ##     ####  
 echo "    ####									      "
 
 echo By Svaltheim
+echo
+echo
 
  python3 JSExtract_4.py $1
  sleep 3
