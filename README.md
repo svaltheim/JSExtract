@@ -1,0 +1,2 @@
+# JSExtract
+Small tool to extract JS files of a website. This tool is useful for bug hunters mainly because you can extract the JS files of the domain and after the Bash script extract the HTTP links inside the JS files, so you can find possible endpoints like API or other things. I recommend using the Bash script, I programmed the Bash script to launch the Python script and extract the HTTP link and juicy words inside the JS files, but if you want, yo can customize you own bash script and use only the python file with your Bash script.
